@@ -1,4 +1,11 @@
+node_modules/
 .env
-node_module
-package-lock.json
-package.json
+.env.*
+dist/
+build/
+coverage/
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+.DS_Store
